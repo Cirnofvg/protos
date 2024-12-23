@@ -378,10 +378,10 @@ var file_sso_sso_proto_goTypes = []any{
 var file_sso_sso_proto_depIdxs = []int32{
 	0, // 0: auth.Auth.Register:input_type -> auth.RegisterRequest
 	2, // 1: auth.Auth.Login:input_type -> auth.LoginRequest
-	4, // 2: auth.Auth.IsAdnin:input_type -> auth.IsAdminRequest
+	4, // 2: auth.Auth.IsAdmin:input_type -> auth.IsAdminRequest
 	1, // 3: auth.Auth.Register:output_type -> auth.RegisterResponse
 	3, // 4: auth.Auth.Login:output_type -> auth.LoginResponse
-	5, // 5: auth.Auth.IsAdnin:output_type -> auth.IsAdminResponse
+	5, // 5: auth.Auth.IsAdmin:output_type -> auth.IsAdminResponse
 	3, // [3:6] is the sub-list for method output_type
 	0, // [0:3] is the sub-list for method input_type
 	0, // [0:0] is the sub-list for extension type_name
